@@ -1,0 +1,112 @@
+# 手工纠正错误的拼音数据
+# 井号开头的行将会被忽略，可以用作注释
+# 数据格式：{code point}: {pinyins}  # {hanzi}
+# 示例：
+# U+4E2D: zhōng,zhòng  # 中
+U+5353: zhuó,zhuō  # 卓
+U+5565: shá,shà  # 啥
+U+5666: yuě,huì  # 噦
+U+59B3: nǐ,nǎi  # 妳
+U+7F57: luó  # 罗
+U+8BB8: xǔ,hǔ  # 许
+U+94AD: tǒu,dǒu  # 钭
+U+9E00: chǔ,zhú,chù  # 鸀
+U+E815: yè  # 
+U+E816: zuǒ,yǒu  # 
+U+E81B: zhòu,zhū  # 
+U+E81D: jié,jiē  # 
+U+E824: zhòu  # 
+U+E826: shǒu  # 
+U+E82B: fēng  # 
+U+E82C: gòng  # 
+U+E82E: huì,kuì  # 
+U+E830: jiān  # 
+U+E831: ēn  # 
+U+E832: xiǎo  # 
+U+E834: lóu,lǘ  # 
+U+E835: cǎn,shān,cēn  # 
+U+E836: zhú  # 
+U+E838: wǎng  # 
+U+E83A: yáng,xiáng  # 
+U+E83D: bà,bēi  # 
+U+E83F: zhuān,zhuán,chuǎn,chún  # 
+U+E842: kuì,huì  # 
+U+E843: juǎn  # 
+U+E846: qíng  # 
+U+E84A: yé,yá  # 
+U+E850: chuài  # 
+U+E854: zhuó  # 
+U+E864: luán  # 
+U+241FE: yíng  # 𤇾
+U+275C8: nú  # 𧗈
+U+47C1: xiāo,chāo  # 䟁
+U+9EBF: mí  # 麿
+U+7C17: zhù  # 簗
+U+8279: cǎo  # 艹
+U+88CF: lǐ  # 裏
+U+88E1: lǐ  # 裡
+
+U+41: ēi
+U+42: bī
+U+43: sēi
+U+44: dì
+U+45: yì
+U+46: ēi fu
+U+47: gì
+U+48: ēi qi
+U+49: ài
+U+4A: jiè
+U+4B: kèi
+U+4C: ēi ou
+U+4D: ēi mu
+U+4E: èn
+U+4F: ōu
+U+50: pī
+U+51: kiū
+U+52: ár
+U+53: ēi si
+U+54: tì
+U+55: yōu
+U+56: wēi
+U+57: dā bu liu
+U+58: ēi kèi si
+U+59: wài
+U+5A: rèi
+
+U+61: ēi
+U+62: bī
+U+63: sēi
+U+64: dì
+U+65: yì
+U+66: ēi fu
+U+67: gì
+U+68: ēi qi
+U+69: ài
+U+6A: jiè
+U+6B: kèi
+U+6C: ēi ou
+U+6D: ēi mu
+U+6E: èn
+U+6F: ōu
+U+70: pī
+U+71: kiū
+U+72: ár
+U+73: ēi si
+U+74: tì
+U+75: yōu
+U+76: wēi
+U+77: dā bu liu
+U+78: ēi kèi si
+U+79: wài
+U+7A: rèi
+
+U+30: líng
+U+31: yī
+U+32: èr
+U+33: sān
+U+34: sì
+U+35: wǔ
+U+36: liù
+U+37: qī
+U+38: bā
+U+39: jiǔ
